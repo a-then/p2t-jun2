@@ -16,7 +16,8 @@ h1 {
     
   background: -webkit-linear-gradient(#eee, #66097b);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;position: absolute;
+    top: 20vh;
 }
 
 /* From https://css.glass */
